@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish MAhajan</h1>
-<h3 align="center">Programmer | Developer | Learner</h3>
+<h3 align="center">Learner | Programmer | Developer </h3>
 
 - 📫 How to reach me **manish.mahajan2002@gmail.com**
 
